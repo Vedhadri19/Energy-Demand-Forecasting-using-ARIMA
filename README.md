@@ -8,7 +8,7 @@ Python, Pandas, NumPy, Matplotlib, Statsmodels, Scikit-learn
 * Loaded and explored energy demand and solar generation data
 * Handled missing values
 - Analyzed the time series using ADF, ACF, and PACF
-Split the data into training and testing sets
-Built ARIMA models with different parameters
-Compared models using RMSE
-Visualized actual vs predicted values
+* Split the data into training and testing sets
+* Built ARIMA models with different parameters
+* Compared models using RMSE
+* Visualized actual vs predicted values

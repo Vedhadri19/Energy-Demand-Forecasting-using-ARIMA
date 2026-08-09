@@ -14,4 +14,4 @@ Python, Pandas, NumPy, Matplotlib, Statsmodels, Scikit-learn
 * Visualized actual vs predicted values
 
 # Visual results
-![IT_load versus IT_solar_generation graphs]
+![IT_load versus IT_solar_generation graphs](IT_load and IT_solar_generation Over Time.png)

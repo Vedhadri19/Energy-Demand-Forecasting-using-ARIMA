@@ -12,3 +12,6 @@ Python, Pandas, NumPy, Matplotlib, Statsmodels, Scikit-learn
 * Built ARIMA models with different parameters
 * Compared models using RMSE
 * Visualized actual vs predicted values
+
+# Visual results
+![IT_load versus IT_solar_generation graphs]
